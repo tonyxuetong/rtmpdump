@@ -8,7 +8,7 @@
   
 #include "/opt/xuetong/rtmpdump/librtmp/rtmp.h"  
 #include "/opt/xuetong/rtmpdump/librtmp/log.h"  
-  
+  ######
 int printfAVal(const AVal al)  
 {  
     int i = 0;  
